@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background:rgb(220, 250, 214);
+    padding: 30px;
+    width: auto;
+}
+
+.tex_div{
+    padding: 45;
+    font-size: 15;
+    color: red;
+    border: 4px solid black;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#parag {
+    text-align: center;
+    color: blue;
+    font-size: 12px;
+    border: 3px solid rebeccapurple;
+    border-radius: 32px;
+}
+
+.t1 {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(11, 20, 17);
+    border: 5px solid salmon;
+    border-radius: 32px;
+    text-align: center;
+    margin-left: 14%;
+    margin-right: 14%;
+}
+#imagem{
+
+    border: 10px solid firebrick;
+    margin: 56px;
+    border-radius: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#imagem_cobra {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 13px;
+    margin-top: 13px;
+    max-width: 70%;
+    max-height: 70%;
+
+}    
